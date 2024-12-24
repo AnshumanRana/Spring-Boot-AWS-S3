@@ -1,0 +1,4 @@
+com\example\S3\Service\Controller\FileController.class
+com\example\S3\Service\S3ServiceApplication.class
+com\example\S3\Service\Configuration\S3Config.class
+com\example\S3\Service\Service\S3Service.class
